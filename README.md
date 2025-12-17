@@ -57,3 +57,5 @@ The script will:
 ## ℹ️ Credits
 
 Created by **Svante** and **Google Antigravity**.
+
+Need help with your Odoo ERP project? Hire us at [Avoin.Systems](https://avoin.systems/).
