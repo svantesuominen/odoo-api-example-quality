@@ -49,6 +49,11 @@ The script will:
 3.  Create the record in the `quality.alert` model.
 4.  Output the ID of the new record upon success.
 
+## 📚 References
+
+- **Quality Alert Data Model**: [https://demo.odoo.com/doc/quality.alert](https://demo.odoo.com/doc/quality.alert)
+- **Official Odoo API Documentation**: [https://www.odoo.com/documentation/19.0/developer/reference/external_api.html](https://www.odoo.com/documentation/19.0/developer/reference/external_api.html)
+
 ## ℹ️ Credits
 
 Created by **Svante** and **Google Antigravity**.
